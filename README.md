@@ -59,3 +59,13 @@ Kotlin 2.0 · Jetpack Compose (Material 3) · Navigation Compose · Hilt · Retr
 3. Ejecutar en un emulador o dispositivo con Android 7.0 (API 24) o superior.
 
 Para probar el indicador offline: activar el modo avión en el emulador.
+
+## Capturas
+
+| Lista | Scroll infinito | Búsqueda | Sin resultados |
+|---|---|---|---|
+| ![](docs/capturas/01_lista.jpg) | ![](docs/capturas/02_scroll_infinito.jpg) | ![](docs/capturas/03_busqueda.jpg) | ![](docs/capturas/04_sin_resultados.jpg) |
+
+| Filtro por tipo | Detalle | Sin conexión | Error + Reintentar |
+|---|---|---|---|
+| ![](docs/capturas/05_filtro_tipo.jpg) | ![](docs/capturas/06_detalle.jpg) | ![](docs/capturas/07_sin_conexion.jpg) | ![](docs/capturas/08_error_reintentar.jpg) |
